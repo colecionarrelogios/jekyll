@@ -736,3 +736,50 @@ p {
     flex-direction: column;
   }
 }
+/* AJUSTE FINAL — TAMANHO DOS TÍTULOS DOS POSTS */
+
+.article-page h1 {
+  max-width: 900px;
+  font-size: clamp(2.2rem, 4vw, 3.8rem) !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.035em;
+  margin-bottom: 18px;
+}
+
+.article-description {
+  max-width: 760px;
+  font-size: 1.05rem !important;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.article-hero {
+  margin-bottom: 26px;
+}
+
+.article-page {
+  padding-top: 54px;
+}
+
+/* Mantém o título da home grande */
+.home-hero h1 {
+  font-size: clamp(3rem, 6.2vw, 5.35rem);
+  line-height: 1.06;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .article-page h1 {
+    font-size: 2rem !important;
+    line-height: 1.14 !important;
+    max-width: 100%;
+  }
+
+  .article-description {
+    font-size: 1rem !important;
+  }
+
+  .article-page {
+    padding-top: 36px;
+  }
+}
