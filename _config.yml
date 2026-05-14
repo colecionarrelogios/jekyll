@@ -1,11 +1,14 @@
 title: Colecionar Relógios
 description: Relógios vintage e neo-vintage com curadoria, história e identidade.
-url: "https://colecionarrelogios.github.io"
-baseurl: ""
+
+url: "https://colecionarrelogios.com.br"
+baseurl: "/jekyll"
+
 lang: pt-BR
 timezone: America/Sao_Paulo
 
 permalink: /:categories/:title/
+
 paginate: 6
 paginate_path: "/page:num/"
 
@@ -23,6 +26,7 @@ defaults:
     values:
       layout: post
       author: Colecionar Relógios
+
   - scope:
       path: ""
     values:
