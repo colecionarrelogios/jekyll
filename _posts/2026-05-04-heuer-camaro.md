@@ -12,7 +12,7 @@ O **Heuer Camaro Ref. 7743** é um daqueles relógios que explicam muito bem a t
 
 Mas o Camaro ocupa um lugar curioso dentro da história da marca. Diferente do Carrera, do Autavia e do Monaco, que se tornaram nomes quase obrigatórios quando se fala em Heuer vintage, o Camaro sempre foi mais discreto. E talvez seja justamente aí que mora seu charme.
 
-![Heuer Camaro Ref. 7743](/assets/images/heuer-camaro-7743.jpg)
+![Heuer Camaro Ref. 7743](/assets/images/heuer-camaro.jpg)
 
 ## O contexto histórico
 
