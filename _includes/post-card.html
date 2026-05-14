@@ -10,6 +10,7 @@
   <div class="post-card-content">
     <span class="post-category">{{ include.post.category_label | default: include.post.categories[0] }}</span>
     <h3>{{ include.post.title }}</h3>
+
     {% if include.post.description %}
       <p>{{ include.post.description }}</p>
     {% endif %}
