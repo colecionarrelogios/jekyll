@@ -6,16 +6,6 @@ category_label: Relógios
 thumbnail: https://colecionarrelogios.github.io/heuer-camaro.jpg
 ---
 
----
-layout: post
-title: "Heuer Camaro Ref. 7743: o cronógrafo que nasceu entre as pistas, os muscle cars e o fim dos anos 60"
-date: 2026-05-14
-categories: [relogios, heuer, cronografos, vintage]
-tags: [Heuer Camaro, Heuer, Camaro 7743, Valjoux 7730, cronógrafo vintage, relógio vintage, relojoaria suíça]
-description: "Um artigo sobre o Heuer Camaro Ref. 7743, cronógrafo manual em aço dos anos 60 equipado com calibre Valjoux 7730."
-image: /assets/images/heuer-camaro-7743.jpg
----
-
 # Heuer Camaro Ref. 7743: o cronógrafo que nasceu entre as pistas, os muscle cars e o fim dos anos 60
 
 O **Heuer Camaro Ref. 7743** é um daqueles relógios que explicam muito bem a transição estética e cultural da relojoaria esportiva no final dos anos 1960. Ele carrega o DNA da Heuer em sua fase mais desejada: cronógrafos manuais, forte ligação com o automobilismo, caixas de personalidade e mostradores funcionais, feitos para leitura rápida e uso real.
