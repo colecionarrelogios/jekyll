@@ -141,8 +141,21 @@ h3 {
 }
 
 h1 {
+  font-size: clamp(2.4rem, 4.2vw, 4rem);
+}
+
+/* Título grande apenas na home */
+.home-hero h1 {
   max-width: 11.8ch;
   font-size: clamp(3rem, 6.2vw, 5.35rem);
+}
+
+/* Título dos artigos */
+.article-page h1 {
+  max-width: 900px;
+  font-size: clamp(2.4rem, 4.4vw, 4.2rem);
+  line-height: 1.08;
+  letter-spacing: -0.035em;
 }
 
 h2 {
