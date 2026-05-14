@@ -105,7 +105,7 @@ title: Home
       <div class="archive-list">
         {% for post in paginator.posts %}
           <a class="archive-item" href="{{ post.url | relative_url }}">
-            
+            <span>➜</span>
             <strong>{{ post.title }}</strong>
             <em>{{ post.category_label | default: post.categories[0] }}</em>
           </a>
