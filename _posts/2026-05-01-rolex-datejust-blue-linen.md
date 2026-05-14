@@ -1,9 +1,9 @@
 ---
-title: Rolex Date Ref. 1500 Blue Linen: o raro mostrador texturizado que transforma um clássico da Rolex
-description: Um artigo sobre o Rolex Date Ref. 1500 com raro mostrador Blue Linen, relógio automático em aço de 34mm, calibre 1570, produzido em 1968 e acompanhado de documentos de passagem e revisão pela Rolex no Japão.
+title: Rolex Date Ref. 1500 Blue Linen
+description: Rolex Date Ref. 1500 Blue Linen: o raro mostrador texturizado que transforma um clássico da Rolex
 categories: [relogios]
 category_label: Relógios
-thumbnail: /assets/images/rolex-blue-linen.jpg
+thumbnail: https://colecionarrelogios.github.io/rolex-blue-linen.jpg
 ---
 
 # Rolex Date Ref. 1500 Blue Linen: o raro mostrador texturizado que transforma um clássico da Rolex
