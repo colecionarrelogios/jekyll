@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section class="category-hero">
+  <div class="container">
+    <span class="eyebrow">Categoria</span>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="post-section">
+  <div class="container">
+    <div class="post-grid">
+      {% assign category_posts = site.posts | where_exp: "post", "post.categories contains page.category" %}
+      {% for post in category_posts %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

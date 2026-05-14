@@ -1,0 +1,17 @@
+{% assign current_category = page.categories[0] %}
+{% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains current_category" | limit: 3 %}
+
+{% if related_posts.size > 0 %}
+<section class="related-posts">
+  <div class="section-heading">
+    <span class="eyebrow">Leia também</span>
+    <h2>Posts relacionados</h2>
+  </div>
+
+  <div class="post-grid related-grid">
+    {% for post in related_posts %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

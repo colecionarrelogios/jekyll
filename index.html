@@ -1,0 +1,93 @@
+---
+layout: default
+title: Home
+---
+
+<section class="home-hero">
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <span class="eyebrow">Relógios vintage com curadoria</span>
+      <h1>Relógios com história, identidade e presença no pulso.</h1>
+      <p>
+        A Colecionar Relógios é uma intermediadora de relógios vintage e neo-vintage,
+        com curadoria de peças selecionadas por design, contexto, autenticidade e relevância colecionável.
+      </p>
+      <p>
+        Aqui, cada peça é apresentada com cuidado: não apenas pela marca no mostrador,
+        mas pelo conjunto da obra — construção, proporção, estado, história e personalidade.
+      </p>
+
+      <div class="actions">
+        <a class="button button-primary" href="{{ '/relogios/' | relative_url }}">Ver relógios</a>
+        <a class="button button-secondary" href="{{ '/sobre/' | relative_url }}">Conheça a loja</a>
+      </div>
+    </div>
+
+    <div class="hero-image">
+      <img src="https://colecionarrelogios.github.io/piaget-polo-7661.jpg" alt="Piaget Polo Ref. 7661">
+    </div>
+  </div>
+</section>
+
+<section class="post-section">
+  <div class="container">
+    <div class="section-heading">
+      <span class="eyebrow">Últimos relógios</span>
+      <h2>Peças recém-publicadas</h2>
+      <a href="{{ '/relogios/' | relative_url }}">Ver todos</a>
+    </div>
+
+    <div class="post-grid">
+      {% assign relogios = site.posts | where_exp: "post", "post.categories contains 'relogios'" | limit: 6 %}
+      {% for post in relogios %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="post-section">
+  <div class="container">
+    <div class="section-heading">
+      <span class="eyebrow">Últimas curiosidades</span>
+      <h2>Histórias e cultura relojoeira</h2>
+      <a href="{{ '/curiosidades/' | relative_url }}">Ver todas</a>
+    </div>
+
+    <div class="post-grid">
+      {% assign curiosidades = site.posts | where_exp: "post", "post.categories contains 'curiosidades'" | limit: 6 %}
+      {% for post in curiosidades %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="pagination-section">
+  <div class="container">
+    <div class="section-heading">
+      <span class="eyebrow">Arquivo</span>
+      <h2>Todos os posts</h2>
+    </div>
+
+    <div class="post-grid">
+      {% for post in paginator.posts %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+
+    {% if paginator.total_pages > 1 %}
+    <nav class="pagination" aria-label="Paginação">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">← Anteriores</a>
+      {% endif %}
+
+      <span>Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Próximos →</a>
+      {% endif %}
+    </nav>
+    {% endif %}
+  </div>
+</section>

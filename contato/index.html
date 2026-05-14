@@ -1,0 +1,41 @@
+---
+layout: page
+title: Contato
+description: Fale com a Colecionar Relógios.
+---
+
+Entre em contato para compra, venda, intermediação ou avaliação de relógios.
+
+<form class="contact-form" action="https://formspree.io/f/SEU_ENDPOINT_AQUI" method="POST">
+  <label>Nome
+    <input type="text" name="nome" required>
+  </label>
+
+  <label>E-mail
+    <input type="email" name="email" required>
+  </label>
+
+  <label>Telefone / WhatsApp
+    <input type="text" name="telefone">
+  </label>
+
+  <label>Assunto
+    <select name="assunto" required>
+      <option value="">Selecione</option>
+      <option value="Compra de relógio">Compra de relógio</option>
+      <option value="Venda de relógio">Venda de relógio</option>
+      <option value="Intermediação">Intermediação</option>
+      <option value="Avaliação">Avaliação</option>
+      <option value="Outro">Outro</option>
+    </select>
+  </label>
+
+  <label>Mensagem
+    <textarea name="mensagem" required placeholder="Conte um pouco sobre o relógio ou sobre o que você precisa."></textarea>
+  </label>
+
+  <input type="hidden" name="_subject" value="Novo contato - Colecionar Relógios">
+  <button class="button button-primary" type="submit">Enviar mensagem</button>
+</form>
+
+<p><a class="button button-secondary" href="https://wa.me/551152950377?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20rel%C3%B3gios" target="_blank">Falar no WhatsApp</a></p>

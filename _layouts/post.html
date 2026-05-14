@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="article-page">
+  <div class="container narrow">
+    <div class="article-hero">
+      <span class="eyebrow">{{ page.category_label | default: page.categories[0] }}</span>
+      <h1>{{ page.title }}</h1>
+
+      {% if page.description %}
+        <p class="article-description">{{ page.description }}</p>
+      {% endif %}
+
+      {% if page.thumbnail %}
+        <div class="article-cover">
+          <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}">
+        </div>
+      {% endif %}
+    </div>
+
+    <div class="article-content">
+      {{ content }}
+    </div>
+
+    {% include related-posts.html %}
+  </div>
+</article>
