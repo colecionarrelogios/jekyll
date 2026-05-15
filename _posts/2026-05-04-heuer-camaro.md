@@ -1,6 +1,6 @@
 ---
-title: Heuer Camaro
-description: Um cronógrafo histórico com desenho de caixa marcante e linguagem esportiva dos anos 1960.
+title: "Heuer Camaro Ref. 7743: o cronógrafo que nasceu entre as pistas, os muscle cars e o fim dos anos 60"
+description: "O Heuer Camaro Ref. 7743 é um daqueles relógios que explicam muito bem a transição estética e cultural da relojoaria esportiva no final dos anos 1960."
 categories: [relogios]
 category_label: Relógios
 thumbnail: https://colecionarrelogios.github.io/heuer-camaro.jpg
