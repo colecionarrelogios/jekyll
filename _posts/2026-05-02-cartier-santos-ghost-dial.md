@@ -1,9 +1,11 @@
 ---
-title: Cartier Santos Octagon Ghost Dial
-description: Um Cartier neo-vintage com estética forte, arquitetura reconhecível e mostrador de personalidade.
+title: "Cartier Santos Octagon Ghost Dial Ref. 2966: o raro Santos dos anos 80 com mostrador fantasma"  
+description: "Um artigo sobre o Cartier Santos Octagon Ghost Dial Ref. 2966, modelo automático em aço e ouro dos anos 80, completo com caixa, manual e certificado."
+image: /assets/images/cartier-santos-octagon-ghost-dial-2966.jpg
 categories: [relogios]
 category_label: Relógios
 thumbnail: https://colecionarrelogios.github.io/cartier-ghost.jpg
+tags: [Cartier Santos, Santos Octagon, Cartier 2966, Ghost Dial, Cartier vintage, relógio vintage, aço e ouro, anos 80]
 ---
 
 # Cartier Santos Octagon Ghost Dial Ref. 2966: o raro Santos dos anos 80 com mostrador fantasma
