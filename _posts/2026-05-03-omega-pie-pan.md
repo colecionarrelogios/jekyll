@@ -1,6 +1,6 @@
 ---
-title: Omega Constellation Pie-Pan
-description: Um clássico da Omega com caixa elegante, mostrador arquitetônico e forte DNA vintage.
+title: "Omega Constellation Pie-Pan em ouro 18K: precisão, elegância e o auge da Omega nos anos 60"
+description: "Um artigo sobre o Omega Constellation Pie-Pan em ouro 18K, relógio automático dos anos 60 equipado com o calibre Omega 551."
 categories: [relogios]
 category_label: Relógios
 thumbnail: https://colecionarrelogios.github.io/omega-pie-pan-ouro.jpg
