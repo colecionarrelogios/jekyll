@@ -3,7 +3,7 @@ title: "Gérald Genta: o designer que moldou o relógio esportivo de luxo modern
 description: "Um artigo sobre Gérald Genta, suas principais criações, sua marca própria e o legado do designer que transformou a indústria relojoeira com modelos como Royal Oak, Nautilus, Ingenieur SL e Polerouter."
 categories: [curiosidades]
 category_label: Curiosidades
-thumbnail: /assets/images/gerald-genta-retrato.jpg
+thumbnail: /assets/images/gerald-genta.jpg
 ---
 
 # Gérald Genta: o designer que moldou o relógio esportivo de luxo moderno
@@ -78,6 +78,8 @@ A marca ficou conhecida por relógios complicados, caixas ousadas, mostradores r
 
 Uma das facetas mais curiosas da marca foi a colaboração com personagens da Disney. Relógios com Mickey Mouse, Minnie, Donald e outros personagens apareciam combinados a complicações mecânicas reais, como horas saltantes e minutos retrógrados. Essa mistura entre alta relojoaria e cultura pop era extremamente incomum para a época.
 
+![Relógios da marca Gérald Genta e Gerald Charles](/assets/images/gerald-genta-marca-legado.jpg)
+
 Hoje, essa ousadia parece muito atual. Mas nos anos 1980, colocar personagens de desenho animado em relógios mecânicos caros era quase uma provocação. Genta tratava o relógio como um campo de liberdade criativa.
 
 Em 2000, a Bulgari adquiriu a Gérald Genta SA e a Daniel Roth SA, incorporando um importante know-how em alta relojoaria complicada. Posteriormente, o nome Gérald Genta passou a orbitar dentro do universo Bulgari, e parte dessa herança pode ser percebida em linhas de caixa octogonal e em desenvolvimentos técnicos ligados à alta relojoaria contemporânea.
@@ -89,8 +91,6 @@ Depois da venda de sua marca homônima, Genta fundou uma nova maison em 2000: **
 A Gerald Charles preserva uma parte importante do último período criativo do designer. Entre suas características mais reconhecíveis está a caixa **Maestro**, com formato assimétrico e inspiração barroca, misturando curvas, ângulos e uma silhueta que foge do padrão tradicional.
 
 Esse capítulo mostra que Genta continuou desenhando mesmo depois de já ter mudado a indústria. Ele não ficou preso apenas ao passado dos grandes ícones dos anos 70. Sua busca por formas próprias seguiu até seus últimos anos.
-
-![Relógios da marca Gérald Genta e Gerald Charles](/assets/images/gerald-genta-marca-legado.jpg)
 
 ## Como Genta moldou a indústria relojoeira
 
